@@ -1,2 +1,5 @@
 # JAVA-Clase7Ej1
-Ejemplo 1 del Apunte de JAVA Clase 7 
+<p>Ejemplo 1 del Apunte de JAVA <b>Clase 7</b> </p> 
+<ul>
+  <li> Ejemplo Hibernate Framework</li>
+</ul>
