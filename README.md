@@ -1,5 +1,5 @@
 # JAVA-Clase7Ej1
-<p>Ejemplo 1 del Apunte de JAVA <b>Clase 7</b> </p> 
+Ejemplo 1 del Apunte de [JAVA Clase 7](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA7.pdf).
 <ul>
   <li> Ejemplo Hibernate Framework</li>
   <li> Comparación de uso de Clases Entidades y Clases con archivo HBM de mapeo </li>
